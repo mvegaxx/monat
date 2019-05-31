@@ -1071,7 +1071,7 @@ img {
 }
 
 .card-2-desarrollo {
-  display: block;
+  display: none;
   width: 59.2%;
   margin-top: 29px;
   float: left;
@@ -1087,7 +1087,7 @@ img {
 }
 
 .card-4-desarrollo {
-  display: none;
+  display: block;
   width: 100%;
   margin-top: 30px;
   float: left;
