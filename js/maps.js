@@ -234,7 +234,6 @@ function initMap(estilo, location, contenedor, marker) {
     });
 };
     initMap(mapanegro, anah, desarrollo, circuloDesarrollo);
-  
     initMap(mapanegro, showroom, mapfooter, circuloContacto);
 
     
