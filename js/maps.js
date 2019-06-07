@@ -218,7 +218,7 @@ function initMap(estilo, location, contenedor, marker) {
         }
     });
     var icon = {
-        url: "../images/circulo.png",
+        url: "./images/circulo.png",
         scaledSize: new google.maps.Size(100, 100)
     };
     var marker = new google.maps.Marker({
