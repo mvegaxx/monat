@@ -127,6 +127,8 @@ img {
 .button.boton-desarollo-home {
   margin-top: 48px;
   padding: 5px 17px;
+  padding-top: 7px;
+  padding-bottom: 3px;
   border-color: #000;
   color: #000;
 }
@@ -1150,6 +1152,8 @@ img {
   height: 30px;
   margin-top: 37px;
   margin-right: auto;
+  padding-top: 7px;
+  padding-bottom: 3px;
   margin-left: auto;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
